@@ -601,3 +601,7 @@ https://restapi.amap.com/v3/direction/walking?origin=116.434307,39.90909&destina
 
 ### 百度语音识别
 - 在国内，具有语音识别API的开放平台不止百度一家。然而，在经过调查和帅选后，本项目最终还是决定使用百度的语音识别API。一方面，在拥有语音识别的API中，百度公司是目前最具有权威性和可靠性的API开放平台；另一方面，百度的语音识别API并不收费，且每天调用的数量无限制。综上所述，本项目使用百度的语音API。
+
+## 清单
+
+[百度语音API](https://ai.baidu.com/tech/speech)
