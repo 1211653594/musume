@@ -42,9 +42,9 @@
 ## 产品结构图
 
 ## API的运用
-### 高德API中的路径规划
+### 高德API路径规划
 - 调用方法：申请”Web服务API”密钥（Key）；拼接HTTP请求URL，第一步申请的Key需作为必填参数一同发送；接收HTTP请求返回的数据（JSON或XML格式），解析数据。
-- 注意：如无特殊声明，接口的输入参数和输出数据编码全部统一为UTF-8。
+- 注意：如无特殊声明，接口的输入参数和输出数据编码全部统一为UTF-8；此API不知针对步行，但根据使用场景的大小，这里只做了步行路径规划的示例。
 - 请求方式：GET。
 - 请求URL：https://restapi.amap.com/v3/direction/walking?parameters
 - 使用示例：
@@ -583,3 +583,10 @@ https://restapi.amap.com/v3/direction/walking?origin=116.434307,39.90909&destina
 "0"
 }
 ```
+
+### 百度实时语音识别
+- 调用方法：
+- 注意：
+- 请求方式：
+- 请求URL：
+- 使用示例：
